@@ -1,0 +1,2 @@
+There is no exact answer, however there is a strategy to find the minimal amount of steps in order to achieve the best answer.
+
